@@ -1,7 +1,7 @@
 spaces = ' ' * 25
-print('{} 12 Butts Wynd'.format(spaces))
-print('{} Twinklebottom Heath'.format(spaces))
-print('{} West Snoring'.format(spaces))
+print(f'{spaces} 12 Butts Wynd')
+print(f'{spaces} Twinklebottom Heath')
+print(f'{spaces} West Snoring')
 print()
 print()
 print('Dear Sir')
